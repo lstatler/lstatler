@@ -1,4 +1,4 @@
-M.S. in Business Analytics at the University of Iowa Tippie College of Business
+M.S. in Business Analytics at the University of Iowa Tippie College of Business \n
 Iowa Baseball Data Analyst
 Interests include combining sports and data together
 <!---
